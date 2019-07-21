@@ -19,7 +19,7 @@ and build an awesome Movie API.
 - [x] [#1 Hello and Introduction](https://github.com/sweetmilkys/nc-graphQL/commit/c15e35b8e1715952e1ab36618b21a890928f518b)
 - [x] [#2 Problems solved by GraphQL](https://github.com/sweetmilkys/nc-graphQL/commit/924c144ebce2b982e9c5f493b4b0d6a9789282d1)
 - [x] [#3 Creating a GraphQL Server with GraphQL Yoga](https://github.com/sweetmilkys/nc-graphQL/commit/140dfd02d388c96de8098350ab29194044925a49)
-- [ ] #4 Creating the first Query and Resolver
+- [x] #4 Creating the first Query and Resolver
 - [ ] #5 Extending the Schema
 - [ ] #6 Extending the Schema part Two
 - [ ] #7 Creating Queries with Arguments
@@ -78,3 +78,16 @@ yarn add babel-cli babel-preset-env babel-preset-stage-3 --dev
 
 1. Over-fetching: 요청한 영역의 정보보다 많은 정보를 서버에서 받는 것
 2. Under-fetching: 하나를 완성하려고 많은 소스를 요청하는 것
+
+### schema
+
+사용자에게 보내거나 받을 data에 대한 서술로 Node.js나 Database를 위한것이 아니라, 단지 Graphql을 위한 것으로 무엇을 주고 받을지 대한 설명
+schema.graphql: 모든 쿼리
+
+### Query
+
+데이터베이스로부터 정보를 얻는 것
+
+### Mutation
+
+서버, 데이터베이스, 메모리에서 데이터를 바꾸는 작업을 하는 것
