@@ -28,7 +28,7 @@ and build an awesome Movie API.
 - [x] [#10 Delete Mutation](https://github.com/sweetmilkys/nc-graphQL/commit/3eb135e46415c08361890bf328f45005b7522e9e)
 - [x] [#11 Wrapping a REST API with GraphQL Part One](https://github.com/sweetmilkys/nc-graphQL/commit/4b26f76fa6fe481f2204d4f96382b097ebdf6516)
 - [x] [#12 Wrapping a REST API with GraphQL Part Two](https://github.com/sweetmilkys/nc-graphQL/commit/e33836090c8b597ca86a5b8f47edd1ede613bff8)
-- [ ] #13 Overview to the final API
+- [x] #13 Overview to the final API
 
 </br>
 
@@ -75,6 +75,13 @@ A light-weight module that brings window.fetch to Node.js
 
 ```
 yarn add node-fetch
+```
+
+**[axios](https://github.com/axios/axios)**
+Promise based HTTP client for the browser and node.js
+
+```
+yarn add axios
 ```
 
 </br>
