@@ -16,7 +16,7 @@ and build an awesome Movie API.
 
 ## Curriculum
 
-- [x] [#1 Hello and Introduction]()
+- [x] [#1 Hello and Introduction](https://github.com/sweetmilkys/nc-graphQL/commit/c15e35b8e1715952e1ab36618b21a890928f518b)
 - [ ] #2 Problems solved by GraphQL
 - [ ] #3 Creating a GraphQL Server with GraphQL Yoga
 - [ ] #4 Creating the first Query and Resolver
