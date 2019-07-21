@@ -1,6 +1,6 @@
 <div align="center">
 
-# GraphQL([Nomad Academy](<(https://academy.nomadcoders.co/p/make-a-movie-api-with-graphql-and-nodejs-super-begginner?ref=map)>))
+# GraphQL([Nomad Academy](https://academy.nomadcoders.co/p/make-a-movie-api-with-graphql-and-nodejs-super-begginner?ref=map))
 
 Learn the basics of GraphQL by making our own NodeJS + GraphQL Server using GraphQL Yoga  
 and build an awesome Movie API.
@@ -18,7 +18,7 @@ and build an awesome Movie API.
 
 - [x] [#1 Hello and Introduction](https://github.com/sweetmilkys/nc-graphQL/commit/c15e35b8e1715952e1ab36618b21a890928f518b)
 - [x] [#2 Problems solved by GraphQL](https://github.com/sweetmilkys/nc-graphQL/commit/924c144ebce2b982e9c5f493b4b0d6a9789282d1)
-- [x] #3 Creating a GraphQL Server with GraphQL Yoga
+- [x] [#3 Creating a GraphQL Server with GraphQL Yoga](https://github.com/sweetmilkys/nc-graphQL/commit/140dfd02d388c96de8098350ab29194044925a49)
 - [ ] #4 Creating the first Query and Resolver
 - [ ] #5 Extending the Schema
 - [ ] #6 Extending the Schema part Two
