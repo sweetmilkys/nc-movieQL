@@ -17,7 +17,7 @@ and build an awesome Movie API.
 ## Curriculum
 
 - [x] [#1 Hello and Introduction](https://github.com/sweetmilkys/nc-graphQL/commit/c15e35b8e1715952e1ab36618b21a890928f518b)
-- [ ] #2 Problems solved by GraphQL
+- [x] #2 Problems solved by GraphQL
 - [ ] #3 Creating a GraphQL Server with GraphQL Yoga
 - [ ] #4 Creating the first Query and Resolver
 - [ ] #5 Extending the Schema
@@ -48,3 +48,12 @@ Fully-featured GraphQL Server with focus on easy setup, performance & great deve
 ```
 yarn add graphql-yoga
 ```
+
+</br>
+
+## Reference
+
+### GraphQL을 사용해서 해결 할 수 있는 문제
+
+1. Over-fetching: 요청한 영역의 정보보다 많은 정보를 서버에서 받는 것
+2. Under-fetching: 하나를 완성하려고 많은 소스를 요청하는 것
