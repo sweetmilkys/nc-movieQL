@@ -18,7 +18,7 @@ and build an awesome Movie API.
 
 - [x] [#1 Hello and Introduction](https://github.com/sweetmilkys/nc-graphQL/commit/c15e35b8e1715952e1ab36618b21a890928f518b)
 - [x] [#2 Problems solved by GraphQL](https://github.com/sweetmilkys/nc-graphQL/commit/924c144ebce2b982e9c5f493b4b0d6a9789282d1)
-- [ ] #3 Creating a GraphQL Server with GraphQL Yoga
+- [x] #3 Creating a GraphQL Server with GraphQL Yoga
 - [ ] #4 Creating the first Query and Resolver
 - [ ] #5 Extending the Schema
 - [ ] #6 Extending the Schema part Two
@@ -41,12 +41,33 @@ and build an awesome Movie API.
 
 ## Libray
 
-**graphql-yoga**
+**[graphql-yoga](https://github.com/prisma/graphql-yoga)**
 
 Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
 
 ```
 yarn add graphql-yoga
+```
+
+**[nodemon](https://nodemon.io/)**
+
+Nodemon is a utility that will monitor for any changes in your source and automatically restart your server
+
+```
+yarn global add nodemon
+```
+
+**[babel](https://babeljs.io/)**
+
+Babel is a JavaScript compiler.
+
+- [babel-cli](https://babeljs.io/docs/en/6.26.3/babel-cli): the CLI tool that runs @babel/core and helps with outputting to a directory, a file, stdout and more (also includes @babel/node cli).
+- [babel-preset-env](https://babeljs.io/docs/en/6.26.3/babel-preset-env): A Babel preset for each environment.
+- [babel-preset-stage-3](https://babeljs.io/docs/en/6.26.3/babel-preset-stage-3): The proposal is mostly finished and now needs feedback from implementations and users to progress further.
+
+```
+yarn global add babel-cli --ignore-engines
+yarn add babel-cli babel-preset-env babel-preset-stage-3 --dev
 ```
 
 </br>
