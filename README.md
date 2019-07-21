@@ -25,7 +25,7 @@ and build an awesome Movie API.
 - [x] [#7 Creating Queries with Arguments](https://github.com/sweetmilkys/nc-graphQL/commit/830ea291ba761f2412261ccce24d19ce735ca848)
 - [x] [#8 Defining Mutations](https://github.com/sweetmilkys/nc-graphQL/commit/c58c952f7bf444ea87bd7bb015d980c159d8c85f)
 - [x] [#9 Creating first Mutation](https://github.com/sweetmilkys/nc-graphQL/commit/79c279e08ae3078cb83580c4013dc7f6bcf764f8)
-- [ ] #10 Delete Mutation
+- [x] #10 Delete Mutation
 - [ ] #11 Wrapping a REST API with GraphQL Part One
 - [ ] #12 Wrapping a REST API with GraphQL Part Two
 - [ ] #13 Overview to the final API
