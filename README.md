@@ -19,7 +19,7 @@ and build an awesome Movie API.
 - [x] [#1 Hello and Introduction](https://github.com/sweetmilkys/nc-graphQL/commit/c15e35b8e1715952e1ab36618b21a890928f518b)
 - [x] [#2 Problems solved by GraphQL](https://github.com/sweetmilkys/nc-graphQL/commit/924c144ebce2b982e9c5f493b4b0d6a9789282d1)
 - [x] [#3 Creating a GraphQL Server with GraphQL Yoga](https://github.com/sweetmilkys/nc-graphQL/commit/140dfd02d388c96de8098350ab29194044925a49)
-- [x] #4 Creating the first Query and Resolver
+- [x] [#4 Creating the first Query and Resolver](https://github.com/sweetmilkys/nc-graphQL/commit/61d45d4560aedbbe557086383fbf072f06b865ee)
 - [ ] #5 Extending the Schema
 - [ ] #6 Extending the Schema part Two
 - [ ] #7 Creating Queries with Arguments
