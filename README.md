@@ -1,10 +1,9 @@
 <div align="center">
 
-# GraphQL(Nomad Academy)
+# GraphQL([Nomad Academy](<(https://academy.nomadcoders.co/p/make-a-movie-api-with-graphql-and-nodejs-super-begginner?ref=map)>))
 
-[Academy Link](https://academy.nomadcoders.co/p/make-a-movie-api-with-graphql-and-nodejs-super-begginner?ref=map)
-
-Learn the basics of GraphQL by making our own NodeJS + GraphQL Server using GraphQL Yoga and build an awesome Movie API.
+Learn the basics of GraphQL by making our own NodeJS + GraphQL Server using GraphQL Yoga  
+and build an awesome Movie API.
 
 </div>
 
@@ -13,9 +12,11 @@ Learn the basics of GraphQL by making our own NodeJS + GraphQL Server using Grap
 - **understanding**: graphQL 기본기
 - **making**: graphQL를 활용한 간단한 서버
 
-## Class Curriculum
+</br>
 
-- [ ] #1 Hello and Introduction
+## Curriculum
+
+- [x] [#1 Hello and Introduction]()
 - [ ] #2 Problems solved by GraphQL
 - [ ] #3 Creating a GraphQL Server with GraphQL Yoga
 - [ ] #4 Creating the first Query and Resolver
@@ -29,7 +30,21 @@ Learn the basics of GraphQL by making our own NodeJS + GraphQL Server using Grap
 - [ ] #12 Wrapping a REST API with GraphQL Part Two
 - [ ] #13 Overview to the final API
 
+</br>
+
 ## Stack
 
 - NodeJS
 - GraphQL
+
+</br>
+
+## Libray
+
+**graphql-yoga**
+
+Fully-featured GraphQL Server with focus on easy setup, performance & great developer experience
+
+```
+yarn add graphql-yoga
+```

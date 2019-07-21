@@ -1,0 +1,12 @@
+{
+  "name": "GraphQL",
+  "version": "1.0.0",
+  "description": "Learn the basics of GraphQL by making our own NodeJS + GraphQL Server using GraphQL Yoga",
+  "main": "index.js",
+  "repository": "https://github.com/sweetmilkys/nc-graphQL.git",
+  "author": "sweetmilkys <sweetmilky.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.1"
+  }
+}
