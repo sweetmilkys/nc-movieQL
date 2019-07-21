@@ -22,7 +22,7 @@ and build an awesome Movie API.
 - [x] [#4 Creating the first Query and Resolver](https://github.com/sweetmilkys/nc-graphQL/commit/61d45d4560aedbbe557086383fbf072f06b865ee)
 - [x] [#5 Extending the Schema](https://github.com/sweetmilkys/nc-graphQL/commit/3c23ffc31a15e33299e2cf66481457cc27a1343e)
 - [x] [#6 Extending the Schema part Two](https://github.com/sweetmilkys/nc-graphQL/commit/98549d5e0cde70dbb7d9c1f885d73d054d9108f1)
-- [ ] #7 Creating Queries with Arguments
+- [x] #7 Creating Queries with Arguments
 - [ ] #8 Defining Mutations
 - [ ] #9 Creating first Mutation
 - [ ] #10 Delete Mutation
