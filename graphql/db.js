@@ -27,3 +27,13 @@ export const getMovie = id => {
   const findMovie = movies.find(movie => movie.id === id);
   return findMovie;
 };
+
+export const addMovie = (name, score) => {
+  const newMovie = {
+    id: `${movies.length}`,
+    name,
+    score
+  };
+  movies.push(newMovie);
+  return newMovie;
+};
