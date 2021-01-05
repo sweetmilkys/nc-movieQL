@@ -7,7 +7,7 @@
   "author": "sweetmilkys <sweetmilky.dev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "graphql-yoga": "^1.18.1"
   },
   "scripts": {
